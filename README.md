@@ -1,2 +1,2 @@
-# IRC-Intermet-Relay-Chat-Server
+# IRC-Internet-Relay-Chat-Server
 IRC Server
